@@ -1,0 +1,26 @@
+.container1{
+    width: 60%;
+    background-color: aquamarine;
+}
+
+.maindivi{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 4%;
+    background-color: aqua;
+}
+.leftdivi{
+    display: flex;
+    width: 40%;
+    background-image: url("https://image.freepik.com/free-vector/group-people-working-together_52683-28615.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+}
+.rightdivi{
+    width: 40%;
+    
+}

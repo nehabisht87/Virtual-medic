@@ -1,0 +1,20 @@
+.container1{
+    width: 60%;
+}
+
+.maindiv{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 4%;
+}
+.leftdiv{
+    background-image: url("https://image.freepik.com/free-vector/access-control-system-abstract-concept_335657-3180.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 40%;
+}
+.rightdiv{
+    width: 40%;
+}

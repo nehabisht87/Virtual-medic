@@ -1,0 +1,21 @@
+.row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.articles {
+  display: flexbox;
+  background-image: url(https://images.unsplash.com/photo-1554136310-2464e64fd97f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=401&q=80);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  background-size: cover;
+  
+}
+.healthcards {
+  display: grid;
+  width: fit-content;
+  height: auto;
+}
+.card-img-top {
+  height: 8cm;
+}

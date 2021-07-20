@@ -1,0 +1,17 @@
+.Voice{
+    
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.bg{
+    background-image: url(https://images.unsplash.com/photo-1585435557343-3b092031a831?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-size: cover;
+}
